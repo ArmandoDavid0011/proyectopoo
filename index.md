@@ -1,4 +1,6 @@
-Bienvenido - Proyecto Final de POO Ing. en Sistemas UNID
+<h1 align='center'>Proyecto Final de POO Ing. en Sistemas UNID</h1>
+
+<h2 align='center'>Cuatrimestre Mayo - Agosto 2021</h2>
 
 You can use the [editor on GitHub](https://github.com/kalg12/proyectopoo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
