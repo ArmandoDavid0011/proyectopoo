@@ -16,6 +16,10 @@
 <td style="width: 308px;">&nbsp;www.google.com</td>
 </tr>
 <tr>
+<td style="width: 209px;">&nbsp;Armando David </td>
+<td style="width: 190px;">&nbsp;Proyecto-PooD</td>
+<td style="width: 308px;">https://github.com/ArmandoDavid0011/Proyecto-pooD/blob/main/index.html</td>
+</tr>
 <td style="width: 209px;">&nbsp;</td>
 <td style="width: 190px;">&nbsp;</td>
 <td style="width: 308px;">&nbsp;</td>
