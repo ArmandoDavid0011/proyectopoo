@@ -30,3 +30,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+o	La página de cada proyecto debe contener los siguientes elementos:
+o	Objetivo general del proyecto
+o	Explicación de las reglas y niveles del juego creado
+o	Imágenes y explicación de los elementos del juego (jugadores, enemigos, bonificaciones, obstáculos, etc.)
+o	Enlace para descargar el archivo ejecutable
+o	Enlace al diagrama de clases UML
+o	Enlace al video en YouTube
+o	Enlace al proyecto publicado en la página de Greenfoot.
+o	Créditos (autor, fecha, materia, etc)
