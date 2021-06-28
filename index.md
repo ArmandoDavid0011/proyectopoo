@@ -2,6 +2,8 @@
 
 <h2 align='center'>Cuatrimestre Mayo - Agosto 2021</h2>
 
+https://github.com/kalg12/proyectopoo/blob/3173af2daca1c83815ee46cb0709b1e7c9efd178/En%20blanco.png?raw=true
+
 You can use the [editor on GitHub](https://github.com/kalg12/proyectopoo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
