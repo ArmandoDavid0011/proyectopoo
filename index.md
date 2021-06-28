@@ -11,9 +11,9 @@
 <td style="width: 308px;">Enlace</td>
 </tr>
 <tr>
-<td style="width: 209px;">&nbsp;</td>
-<td style="width: 190px;">&nbsp;</td>
-<td style="width: 308px;">&nbsp;</td>
+<td style="width: 209px;">&nbsp;Cristhian Alejandro Hernández Cruz</td>
+<td style="width: 190px;">&nbsp;Proyecto zzzzzzzzz</td>
+<td style="width: 308px;">&nbsp;www.google.com</td>
 </tr>
 <tr>
 <td style="width: 209px;">&nbsp;</td>
