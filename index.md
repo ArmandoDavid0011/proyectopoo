@@ -2,40 +2,69 @@
 
 <h2 align='center'>Cuatrimestre Mayo - Agosto 2021</h2>
 
-https://github.com/kalg12/proyectopoo/blob/3173af2daca1c83815ee46cb0709b1e7c9efd178/En%20blanco.png?raw=true
 
-You can use the [editor on GitHub](https://github.com/kalg12/proyectopoo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-o	La página de cada proyecto debe contener los siguientes elementos:
-o	Objetivo general del proyecto
-o	Explicación de las reglas y niveles del juego creado
-o	Imágenes y explicación de los elementos del juego (jugadores, enemigos, bonificaciones, obstáculos, etc.)
-o	Enlace para descargar el archivo ejecutable
-o	Enlace al diagrama de clases UML
-o	Enlace al video en YouTube
-o	Enlace al proyecto publicado en la página de Greenfoot.
-o	Créditos (autor, fecha, materia, etc)
+<table style="width: 481px;">
+<tbody>
+<tr>
+<td style="width: 142px;">&nbsp;</td>
+<td style="width: 129px;">&nbsp;</td>
+<td style="width: 209px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 142px;">&nbsp;</td>
+<td style="width: 129px;">&nbsp;</td>
+<td style="width: 209px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 142px;">&nbsp;</td>
+<td style="width: 129px;">&nbsp;</td>
+<td style="width: 209px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 142px;">&nbsp;</td>
+<td style="width: 129px;">&nbsp;</td>
+<td style="width: 209px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 142px;">&nbsp;</td>
+<td style="width: 129px;">&nbsp;</td>
+<td style="width: 209px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 142px;">&nbsp;</td>
+<td style="width: 129px;">&nbsp;</td>
+<td style="width: 209px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 142px;">&nbsp;</td>
+<td style="width: 129px;">&nbsp;</td>
+<td style="width: 209px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 142px;">&nbsp;</td>
+<td style="width: 129px;">&nbsp;</td>
+<td style="width: 209px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 142px;">&nbsp;</td>
+<td style="width: 129px;">&nbsp;</td>
+<td style="width: 209px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 142px;">&nbsp;</td>
+<td style="width: 129px;">&nbsp;</td>
+<td style="width: 209px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 142px;">&nbsp;</td>
+<td style="width: 129px;">&nbsp;</td>
+<td style="width: 209px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 142px;">&nbsp;</td>
+<td style="width: 129px;">&nbsp;</td>
+<td style="width: 209px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- DivTable.com -->
